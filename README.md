@@ -19,5 +19,5 @@ This project performs analysis on student marks using Python.
 Visual representation of student performance using charts.
 
 ---
-Created by Lalitha 🚀
+Created by Shivarajkumar 🚀
 
