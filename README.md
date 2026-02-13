@@ -20,4 +20,13 @@ Visual representation of student performance using charts.
 
 ---
 Created by Shivarajkumar 🚀
+---
+## 🚀 How to Run
+
+1. Install required libraries:
+   pip install pandas matplotlib
+
+2. Run the file:
+   python student_data_analysis.py
+
 
